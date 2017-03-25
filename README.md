@@ -1,3 +1,1 @@
-# react
-
-Обучение React.js по книге Стояна Стефанова "Быстрый старт React.js"
+# React + redux + webpack billet for quick start.

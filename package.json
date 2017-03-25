@@ -1,7 +1,7 @@
 {
-  "name": "reactbook",
+  "name": "reactblank",
   "version": "1.0.0",
-  "description": "Обучение React.js по книге Стояна Стефанова \"Быстрый старт React.js\"",
+  "description": "React + redux + webpack billet for quick start.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --inline --hot",

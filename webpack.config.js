@@ -41,8 +41,8 @@ const config = {
                 }]
             },
             {
-                test: /\.(jpg|png|svg)$/,
-                use: "file-loader?name=images/[name].[ext]"
+                test: /\.(png|jpg|svg|gif)$/,
+                use: 'file-loader?name=images/[path][name].[ext]'
             }
         ],
     },
